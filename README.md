@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-My name is Greg Frediani and I'm a self taught web developer liviing in Germany. I've started my journey a little over a year ago and every day I'm trying to better myself by learning new technologies and practicing them in my free time. This is something that I'm passionate about and I'm looking forward to my first step into the professional field.
+My name is Greg Frediani and I'm a self taught web developer living in Germany. I've started my journey a little over a year ago and every day I'm trying to better myself by learning new technologies and practicing them in my free time. This is something that I'm passionate about and I'm looking forward to my first step into the professional field.
 
 I'm focused more on JavaScript and more specifically on React at the moment!
 
