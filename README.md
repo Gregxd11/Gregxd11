@@ -4,7 +4,7 @@ My name is Greg Frediani and I'm a self taught web developer living in Germany. 
 
 I'm focused more on JavaScript and more specifically on React at the moment!
 
-Feel free to check out my [portfolio](https://gregfrediani.herokuapp.com)
+Feel free to check out my [portfolio](https://gregfrediani.herokuapp.com)!
 
 <!--
 **Gregxd11/Gregxd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
